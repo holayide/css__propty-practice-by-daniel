@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    margin: 50px 30px 0;
+}
+.header h1 {
+    margin-bottom: 20px;
+}
+.main p {
+    color: white;
+    background-color: black;
+    font-size: 1rem;
+    align-items: center;
+    font-weight: 500;
+    line-height: 2rem;
+}
+.main .image {
+    width: 30vw;
+    height: 40vh;
+    background-image: url("/image/mark-s-6AUh-WADwug-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 50px auto 0;
+}
